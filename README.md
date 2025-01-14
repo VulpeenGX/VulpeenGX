@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there 👋</h1>
-  <img src="https://github.com/VulpeenGX/images/blob/main/img.jpg" alt="Profile Picture" width="200"/>
+  <img src="https://github.com/VulpeenGX/images/blob/main/img.jpg" alt="Profile Picture" width="800"/>
 </div>
 
 I am a budding multiplatform software developer, currently in my second year of studying Multiplatform Application Development (DAM). 🚀 Passionate about technology and always looking for new challenges. 💻
