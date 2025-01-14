@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Alejandro 👋</h1>
-  <img src="https://github.com/VulpeenGX/images/blob/main/img.jpg" alt="Profile Picture" style="width: 100%; max-width: 800px;" />
+  <img src="https://github.com/VulpeenGX/images/blob/main/img.jpg" alt="Profile Picture" width="1200" height="200" />
 </div>
 
 
