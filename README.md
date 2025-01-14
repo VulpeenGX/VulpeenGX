@@ -1,6 +1,7 @@
-## Hi there 👋
-
-!Profile Picture
+<div align="center">
+  <h1>Hi there 👋</h1>
+  <img src="URL_OF_YOUR_PHOTO" alt="Profile Picture" width="200"/>
+</div>
 
 I am a budding multiplatform software developer, currently in my second year of studying Multiplatform Application Development (DAM). 🚀 Passionate about technology and always looking for new challenges. 💻
 
