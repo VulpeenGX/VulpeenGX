@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hi, I'm Alejandro 👋</h1>
-  <img src="https://th.bing.com/th/id/OIP.NzHFH6GQFsBZH_nvGimdeQHaEM?rs=1&pid=ImgDetMain" width="1200" height="200" />
 </div>
 
 
