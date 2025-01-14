@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there 👋
+!Profile Picture
 
-<!--
-**VulpeenGX/VulpeenGX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a budding multiplatform software developer, currently in my second year of studying Multiplatform Application Development (DAM). 🚀 Passionate about technology and always looking for new challenges. 💻
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Skills:
+Backend and Databases: Java, Python, Kotlin, MySQL, Oracle, SQLite, Flask, Odoo
+Frontend: HTML, CSS, JavaScript
+Tools and Technologies: Git, Maven, JUnit, Eclipse
+Methodologies: Object-Oriented Programming (OOP)
+📚 Currently Learning:
+New technologies and frameworks to enhance my development skills.
+🔗 Connect with me:
+LinkedIn
+Twitter
+💬 Ask me about:
+Multiplatform application development
+Databases and backend
+Personal projects and collaborations
+📫 How to reach me:
+Email
+⚡ Fun fact:
+I love solving complex problems and learning new things every day!
