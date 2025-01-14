@@ -11,6 +11,7 @@ I am a budding multiplatform software developer, currently in my second year of 
 - **Frontend**: HTML, CSS, JavaScript
 - **Tools and Technologies**: Git, Maven, JUnit, Eclipse
 - **Methodologies**: Object-Oriented Programming (OOP)
+- And more...
 
 ### 📚 Currently Learning:
 - New technologies and frameworks to enhance my development skills.
