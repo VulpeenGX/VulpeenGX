@@ -1,7 +1,8 @@
 <div align="center">
   <h1>Hi, I'm Alejandro 👋</h1>
-  <img src="https://github.com/VulpeenGX/images/blob/main/img.jpg" alt="Profile Picture" width="200" />
+  <img src="https://github.com/VulpeenGX/images/blob/main/img.jpg" alt="Profile Picture" style="width: 100%; max-width: 800px;" />
 </div>
+
 
 I am a budding multiplatform software developer, currently in my second year of studying Multiplatform Application Development (DAM). 🚀 Passionate about technology and always looking for new challenges. 💻
 
