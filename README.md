@@ -1,6 +1,8 @@
 <div align="center">
   <h1>Hi, I'm Alejandro 👋</h1>
+  <img src="" alt="Profile Picture" width="1200" height="200" />
 </div>
+
 
 
 I am a budding multiplatform software developer, currently in my second year of studying Multiplatform Application Development (DAM). 🚀 Passionate about technology and always looking for new challenges. 💻
