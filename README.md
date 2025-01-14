@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Alejandro 👋</h1>
-  <img src="" alt="Profile Picture" width="1200" height="200" />
+  <img src="" width="1200" height="200" />
 </div>
 
 
