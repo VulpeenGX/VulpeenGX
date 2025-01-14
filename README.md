@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hola, soy Alejandro 👋</h1>
+  <h1>Hi, I'm Alejandro 👋</h1>
   <img src="https://github.com/VulpeenGX/images/blob/main/img.jpg" alt="Profile Picture" width="200" />
 </div>
 
