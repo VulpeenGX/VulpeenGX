@@ -18,15 +18,12 @@ I am a budding multiplatform software developer, currently in my second year of 
 
 ### 🔗 Connect with me:
 - LinkedIn
-- Twitter
+- Email
 
 ### 💬 Ask me about:
 - Multiplatform application development
 - Databases and backend
 - Personal projects and collaborations
-
-### 📫 How to reach me:
-- Email
 
 ### ⚡ Fun fact:
 - I love solving complex problems and learning new things every day!
